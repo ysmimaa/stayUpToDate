@@ -1,1 +1,1 @@
-# stayUpToDate
+# stay up to date
